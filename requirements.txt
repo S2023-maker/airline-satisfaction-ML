@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 streamlit>=1.35.0
 pandas>=2.0.0
 scikit-learn==1.5.2
 numpy>=1.26.0
+=======
+streamlit>=1.35.0
+pandas>=2.0.0
+scikit-learn==1.5.2
+numpy>=1.26.0
+>>>>>>> 75987761eb0e2b833c75968201e442e2491e3db8
